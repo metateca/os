@@ -259,6 +259,20 @@ Reprodução de Música Sincronizada - SoundSeeder
 Neutralizer
 
 
+Música
+
+QuickLyric - Letras
+Troff - Training with music
+KaraFun - Karaoke Party
+Tempo SlowMo - BPM Slow Downer
+Metrônomo Beats
+BandLab: estúdio de música
+Walk Band - Estúdio de Música
+Guitar Music Analyzer Free
+Flat
+Bandpass
+Equalizer & Bass booster
+
 Fotografia
 
 Prisma Photo Editor
